@@ -11,7 +11,7 @@
  'For My DEX TON Entertainments project enter this link:
   angaadabhilash.github.io/codingfinalprojectdextonentertainmentsl2/FinalCoding_level_2_projectwebsite.html
   
-  'For My Loop Lab project enter this link: (It is the same link this one works!)
+  'For My Loop Lab project enter this link: (It is the same link this one does work!)
   angaadabhilash.github.io/looplab/
   
   'For My Portofolio project enter this link:
