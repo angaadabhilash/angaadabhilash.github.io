@@ -1,7 +1,7 @@
 # angaadabhilash.github.io
 👋 Hi, I’m @angaadabhilash
 -  I am in 7th currently
-- 🌱 I was currently learning in codeyoung WebD level 2, and this repo has my level 2 major
+-  I was currently learning in codeyoung WebD level 2, and this repo has my level 2 major
   projects.
   
 - And this README.md is being commited because I wanted The Visitors who are intrested in my projects to know
